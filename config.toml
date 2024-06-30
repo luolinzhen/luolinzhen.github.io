@@ -1,6 +1,6 @@
 baseURL = "https://luolinzhen.github.io/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "罗淋贞: Linzhen Luo"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
@@ -55,16 +55,16 @@ posts = "/posts/:year/:month/:day/:slug/"
     copyright = "&copy;"
     copyrightYear = "2024"
     # Edit by yourself:
-    GithubRepo = "https://github.com/USERNAME/REPONAME"
+    GithubRepo = "https://github.com/luolinzhen/luolinzhen.github.io"
     # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/USERNAME/REPONAME/main/content/" 
+    ContentSource = "https://raw.githubusercontent.com/luolinzhen/luolinzhen.github.io/main/content/" 
 
 [params.logo]
   # Change the logo picture as your prefer:
   url = "/media/logo.png" # you can change it
   width = 50.0
   height = 50.0
-  alt = "Linzhen"
+  alt = "Linzhen Luo"
 
 [params.lang]
 
