@@ -12,7 +12,7 @@ Welcome to my homepage! My name is Linzhen Luo. <audio controls= "controls"> <so
 
 !audio[name](/media/NeilAvenue.mp4){ size=10 duration=10 cycle=forever }
 
-<audio controls="" style="width: 100%; height: 30px;">
+<audio controls="" style="width: 1>
   <source src="/media/NeilAvenue.mp4">
   Your browser does not support the audio element.
 </audio>
