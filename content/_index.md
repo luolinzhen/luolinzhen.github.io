@@ -9,3 +9,5 @@ Welcome to my homepage! My name is Linzhen Luo. <audio controls=1><source src="/
 这里是罗淋贞的个人主页。
 
 ![audio](/media/NeilAvenue.mp4)
+
+!audio[name](/media/NeilAvenue.mp4){ size=10 duration=10 cycle=forever }
