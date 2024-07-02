@@ -7,3 +7,5 @@ title: Home
 Welcome to my homepage! My name is Linzhen Luo. <audio controls=1><source src="/media/NeilAvenue.m4a" 
 
 这里是罗淋贞的个人主页。
+
+![audio](/media/NeilAvenue.mp4)
