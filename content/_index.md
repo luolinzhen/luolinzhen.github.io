@@ -5,6 +5,5 @@ title: Home
 {{<figure src="/media/Photo.JPG" title="Me at the Bachelor's Graduation in Jiannan Auditorium" width="450">}}
 
 
-Welcome to my personal website! My name is Linzhen Luo. <audio controls="" style="width: 15%; height: 30px;"> <source src="/media/Name.mp4"> Your browser does not support the audio element. </audio> I am an M.A. student in Education at the Ohio State University and will graduate soon. Prior to my Master's journey, I obtained a B.A. in Japanese from Xiamen University. I also studied abroad in Japan and here is my[Japanese blog](https://beckyllz.design.blog) to record. 
-这里是罗淋贞的个人主页。
- 这是[一个链接](https://github.com/).
+Welcome to my website! My name is Linzhen Luo. <audio controls="" style="width: 15%; height: 30px;"> <source src="/media/Name.mp4"> Your browser does not support the audio element. </audio> I am doing my M.A. in [Foreign, Second, and Multilingual Language Education](https://ehe.osu.edu/graduate/foreign-second-and-multilingual-language-education) at The Ohio State University and will be graduating soon. Prior to my Master's journey, I received my B.A. in [Japanese]<https://cflc.xmu.edu.cn/> from Xiamen University. When I am not working, I enjoy swimming, chit-chatting with friends, and watching reality shows.
+这里是罗淋贞的个人主页。我本科毕业于厦门大学，目前在美国俄亥俄州立大学教育学院读硕士。
