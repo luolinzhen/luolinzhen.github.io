@@ -11,7 +11,7 @@ toc: true
 
 ## 联系方式
 
-邮箱：luo.1453@osu.edu
+邮箱：luo.1453@buckeyemail.osu.edu
 
 ## 我的经历
 
