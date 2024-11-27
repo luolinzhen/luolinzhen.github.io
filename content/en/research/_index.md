@@ -66,7 +66,7 @@ PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen
 {{< endcolumn >}}
 
 
-## Kinship Oral H Project
+## Kinship Oral Health Project
 
 {{< columns >}}
 
