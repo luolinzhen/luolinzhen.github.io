@@ -38,7 +38,7 @@ examine how the complexity of bilingual experiences influences diverse cognitive
 
 {{< columns >}}
 
-{{< figure-a src="/media/research/ResearchPoster">}}
+{{< figure-a src="/media/research/ResearchPoster.png">}}
 
 {{< endcolumn >}}
 
@@ -63,7 +63,7 @@ PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=hua
 
 {{< columns >}}
 
-{{< figure-a src="/media/research/crosslanguage" caption="Source: ChatGPT">}}
+{{< figure-a src="/media/research/crosslanguage.png" caption="Source: ChatGPT">}}
 
 {{< column >}}
 
@@ -78,7 +78,7 @@ PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen
 
 {{< columns >}}
 
-{{< figure-a src="/media/research/KOH">}}
+{{< figure-a src="/media/research/KOH.png">}}
 
 {{< column >}}
 
@@ -89,14 +89,18 @@ PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/)
 {{< endcolumn >}}
 
 
+
+
 ## GrandCare Project
 
 {{< columns >}}
 
+{{< figure-a src="/media/research/grandcare.png" caption="Source: ChatGPT">}}
+
+
+{{< column >}}
+
 PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
-
-
-{{< figure-a src="/media/research/grandcare" caption="Source: ChatGPT">}}
 
 {{< endcolumn >}}
 
