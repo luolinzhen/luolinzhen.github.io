@@ -5,7 +5,7 @@ type : nolisting
 
 # Research Project
 
-## Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 2018
+Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 2018
 
 {{< columns >}}
 
