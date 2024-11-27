@@ -1,69 +1,36 @@
 ---
-title: "Curriculum Vitae"
-type : list-single
+title: Research
+type : nolisting
 ---
 
-## Albert Einstein
+## Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 2018
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+{{< columns >}}
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
+{{<figure-a src="/content/en/research/Master.png" style="width: 100%;">}}
 
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
+{{< column >}}
 
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
+**Numerous studies have explored the cognitive advantages of bilingualism, highlighting its potential to enhance various cognitive abilities. Understanding these
+associations can help educators and parents support bilingual students in leveraging their
+cognitive strengths to achieve their full potential. However, the relationship between
+bilingualism and computational thinking (CT) remains under-researched. The purpose of this
+study is to investigate whether bilingualism predicts higher computational thinking
+performance, using hierarchical regression analysis on data from the U.S. sample of the
+International Computer and Information Literacy Study (ICILS) 2018. Results revealed that
+after controlling for gender, race/ethnicity, socioeconomic status, immigration status,
+computer experience, and self-efficacy in information and communications technology,
+bilingual students scored lower on computational thinking tests than their monolingual peers.
+These findings challenge the notion of cognitive advantages associated with bilingualism,
+suggesting that its benefits may not extend to all cognitive domains. Furthermore, the study
+identifies limitations in current measures of bilingual status and calls for future research to
+examine how the complexity of bilingual experiences influences diverse cognitive skills.
+{{< endcolumn >}}
 
-### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
+## A Systematic Review of the Effectiveness of ScratchJr/Scratch on Computational Thinking and/or Literacy 
 
-### Areas of specialisation
-Physics; Relativity Theory
+{{< columns >}}
 
-### Appointments held
+{{<figure-a src="content/en/research/ResearchPoster.png" style="width: 100%;">}}
 
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
-
-### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
-
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
-
-### Publications & talks
-#### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
-
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
-
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
-
-### Teaching
-
-...
-
-### Service to the profession
-
-...
+{{< endcolumn >}}
