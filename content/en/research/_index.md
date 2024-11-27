@@ -51,10 +51,6 @@ PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=hua
 {{< endcolumn >}}
 
 
-
-
-
-
 ## Cross-Language Reading-Writing Project
 
 {{< columns >}}
@@ -70,7 +66,7 @@ PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen
 {{< endcolumn >}}
 
 
-## KOH Project
+## Kinship OH Project
 
 {{< columns >}}
 
