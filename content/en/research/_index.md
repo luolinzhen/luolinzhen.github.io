@@ -7,7 +7,7 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure-a src="/media/research/Master.png" width="600px" >}}
+{{<figure-a src="/media/research/Master.png"}}
 
 {{< column >}}
 
@@ -36,12 +36,65 @@ examine how the complexity of bilingual experiences influences diverse cognitive
 </details>
 
 
-
-
-## A Systematic Review of the Effectiveness of ScratchJr/Scratch on Computational Thinking and/or Literacy 
+## Parent-Child Talk
 
 {{< columns >}}
 
-{{< figure-a src="/media/research/ResearchPoster.png" width="600px" >}}
+{{< figure-a src="/media/research/parent-child.png" caption="Source: ChatGPT">}}
+
+{{< column >}}
+
+**This project aims to**
+
+PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=huang.5088) 
 
 {{< endcolumn >}}
+
+
+
+
+
+
+## Cross-Language Reading-Writing Project
+
+{{< columns >}}
+
+{{< figure-a src="/media/research/crosslanguage" caption="Source: ChatGPT">}}
+
+{{< column >}}
+
+**This project aims to**
+
+PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen.aspx) 
+
+{{< endcolumn >}}
+
+
+## KOH Project
+
+{{< columns >}}
+
+{{< figure-a src="/media/research/KOH">}}
+
+{{< column >}}
+
+**This project aims to**
+
+PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
+
+{{< endcolumn >}}
+
+## GrandCare Project
+
+{{< columns >}}
+
+{{< figure-a src="/media/research/grandcare" caption="Source: ChatGPT">}}
+
+{{< endcolumn >}}
+
+
+
+
+
+
+
