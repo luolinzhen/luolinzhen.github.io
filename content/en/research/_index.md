@@ -1,5 +1,5 @@
 ---
-title: Research
+title: "Research"
 type : nolisting
 ---
 
@@ -7,11 +7,18 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure-a src="/content/en/research/Master.png" style="width: 100%;">}}
+{{<figure src="/static/Master.png">}}
 
 {{< column >}}
 
-**Numerous studies have explored the cognitive advantages of bilingualism, highlighting its potential to enhance various cognitive abilities. Understanding these
+
+{{< endcolumn >}}
+
+<details>
+<summary>Click to Expand Full Abstract. </summary>
+<p style="text-align: justify;">
+Numerous studies have explored the cognitive advantages of bilingualism,
+highlighting its potential to enhance various cognitive abilities. Understanding these
 associations can help educators and parents support bilingual students in leveraging their
 cognitive strengths to achieve their full potential. However, the relationship between
 bilingualism and computational thinking (CT) remains under-researched. The purpose of this
@@ -25,12 +32,17 @@ These findings challenge the notion of cognitive advantages associated with bili
 suggesting that its benefits may not extend to all cognitive domains. Furthermore, the study
 identifies limitations in current measures of bilingual status and calls for future research to
 examine how the complexity of bilingual experiences influences diverse cognitive skills.
-{{< endcolumn >}}
+</p>
+</details>
+
+
+
 
 ## A Systematic Review of the Effectiveness of ScratchJr/Scratch on Computational Thinking and/or Literacy 
 
 {{< columns >}}
 
-{{<figure-a src="content/en/research/ResearchPoster.png" style="width: 100%;">}}
+{{<figure src="/static/ResearchPoster.png">}}
+
 
 {{< endcolumn >}}
