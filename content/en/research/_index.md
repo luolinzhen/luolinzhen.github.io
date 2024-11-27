@@ -88,9 +88,13 @@ PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/)
 
 {{< endcolumn >}}
 
+
 ## GrandCare Project
 
 {{< columns >}}
+
+PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
+
 
 {{< figure-a src="/media/research/grandcare" caption="Source: ChatGPT">}}
 
