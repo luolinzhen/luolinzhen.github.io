@@ -7,7 +7,7 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure-a src="/media/research/Master.png">}}
+{{<figure-a src="/media/research/Master.png" width="600px" >}}
 
 {{< column >}}
 
@@ -42,7 +42,6 @@ examine how the complexity of bilingual experiences influences diverse cognitive
 
 {{< columns >}}
 
-{{<figure-a src="/media/research/ResearchPoster.png">}}
-
+{{< figure-a src="/media/research/ResearchPoster.png" width="600px" >}}
 
 {{< endcolumn >}}
