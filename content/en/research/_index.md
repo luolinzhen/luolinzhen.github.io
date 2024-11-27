@@ -7,7 +7,7 @@ type : nolisting
 
 {{< columns >}}
 
-{{<figure-a src="/media/research/Master.png"}}
+{{<figure-a src="/media/research/Master.png">}}
 
 {{< column >}}
 
