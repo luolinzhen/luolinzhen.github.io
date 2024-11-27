@@ -3,7 +3,7 @@ title: "Research"
 type : nolisting
 ---
 
-## Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 
+## Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 2018
 
 {{< columns >}}
 
@@ -66,7 +66,7 @@ PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen
 {{< endcolumn >}}
 
 
-## Kinship OH Project
+## Kinship Oral H Project
 
 {{< columns >}}
 
