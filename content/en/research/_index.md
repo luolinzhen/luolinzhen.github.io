@@ -11,8 +11,6 @@ type : nolisting
 
 {{< column >}}
 
-{{< endcolumn >}}
-
 <details>
 <summary>Click to Expand Full Abstract. </summary>
 <p style="text-align: justify;">
@@ -33,6 +31,10 @@ identifies limitations in current measures of bilingual status and calls for fut
 examine how the complexity of bilingual experiences influences diverse cognitive skills.
 </p>
 </details>
+
+{{< endcolumn >}}
+
+
 
 ## A Systematic Review of the Effectiveness of ScratchJr/Scratch on Computational Thinking and/or Literacy 
 
