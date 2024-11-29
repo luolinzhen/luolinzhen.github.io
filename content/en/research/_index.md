@@ -11,7 +11,7 @@ type : nolisting
 
 {{< column >}}
 
-Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 2018. [PDF](http://rave.ohiolink.edu/etdc/view?acc_num=osu1721309151196892)
+**Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 2018.** [PDF](http://rave.ohiolink.edu/etdc/view?acc_num=osu1721309151196892)
 
 <details>
 <summary> Click to Expand Full Abstract </summary>
@@ -46,7 +46,7 @@ examine how the complexity of bilingual experiences influences diverse cognitive
 
 {{< column >}}
 
-With a Little Help from ScratchJr/Scratch: A Systematic Review of the Effectiveness of ScratchJr/Scratch on Computational Thinking and/or Literacy. [Proposal](/media/research/Proposal_20231119.pdf)
+**With a Little Help from ScratchJr/Scratch: A Systematic Review of the Effectiveness of ScratchJr/Scratch on Computational Thinking and/or Literacy.** [Proposal](/media/research/Proposal_20231119.pdf)
 
 <details>
 <summary> Click to Expand Full Abstract </summary>
@@ -80,7 +80,7 @@ This project aims to
 
 
 
-##Family-Related Projects
+## Family-Related Projects
 
 {{< columns >}}
 
