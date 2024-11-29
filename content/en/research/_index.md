@@ -3,9 +3,7 @@ title: "Research"
 type : nolisting
 ---
 
-## Research Project
-
-Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 2018
+## Bilingualism and Cognition
 
 {{< columns >}}
 
@@ -13,8 +11,10 @@ Can Bilingualism Predict Computational Thinking? Evidence from the United States
 
 {{< column >}}
 
+Can Bilingualism Predict Computational Thinking? Evidence from the United States Sample of the International Computer and Information Literacy Study 2018. [PDF](http://rave.ohiolink.edu/etdc/view?acc_num=osu1721309151196892)
+
 <details>
-<summary>Click to Expand Full Abstract. </summary>
+<summary> Click to Expand Full Abstract </summary>
 <p style="text-align: justify;">
 Numerous studies have explored the cognitive advantages of bilingualism,
 highlighting its potential to enhance various cognitive abilities. Understanding these
@@ -38,32 +38,26 @@ examine how the complexity of bilingual experiences influences diverse cognitive
 
 
 
-## A Systematic Review of the Effectiveness of ScratchJr/Scratch on Computational Thinking and/or Literacy 
+## Language and Literacy Development
 
 {{< columns >}}
 
 {{< figure-a src="/media/research/ResearchPoster.png">}}
 
-{{< endcolumn >}}
-
-
-
-## Parent-Child Talk
-
-{{< columns >}}
-
-{{< figure-a src="/media/research/parent-child.png" caption="Source: ChatGPT">}}
-
 {{< column >}}
 
-**This project aims to**
+With a Little Help from ScratchJr/Scratch: A Systematic Review of the Effectiveness of ScratchJr/Scratch on Computational Thinking and/or Literacy. [Proposal](/media/research/Proposal_20231119.pdf)
 
-PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=huang.5088) 
+<details>
+<summary> Click to Expand Full Abstract </summary>
+<p style="text-align: justify;">
+Computational thinking and literacy skills are critical in children’s development. This systematic review aims to examine the effectiveness of using the most popular block-based programming language ScratchJr/Scratch in elevating children’s computational thinking and literacy skills.
+</p>
+</details>
 
 {{< endcolumn >}}
 
 
-## Cross-Language Reading-Writing Project
 
 {{< columns >}}
 
@@ -71,14 +65,42 @@ PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=hua
 
 {{< column >}}
 
-**This project aims to**
+**Cross-Language Reading-Writing Project**
 
 PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen.aspx) 
+
+This project aims to
 
 {{< endcolumn >}}
 
 
-## Kinship Oral Health Project
+
+
+
+
+
+
+##Family-Related Projects
+
+{{< columns >}}
+
+{{< figure-a src="/media/research/parent-child.png" caption="Source: ChatGPT">}}
+
+{{< column >}}
+
+**Parent-Child Talk**
+
+
+PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=huang.5088) 
+
+This project aims to
+
+{{< endcolumn >}}
+
+
+
+
+
 
 {{< columns >}}
 
@@ -86,16 +108,17 @@ PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen
 
 {{< column >}}
 
-**This project aims to**
+**Kinship Oral Health Project**
 
 PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
+
+This project aims to
 
 {{< endcolumn >}}
 
 
 
 
-## GrandCare Project
 
 {{< columns >}}
 
@@ -103,6 +126,8 @@ PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/)
 
 
 {{< column >}}
+
+GrandCare Project
 
 PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
 
