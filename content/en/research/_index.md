@@ -71,6 +71,11 @@ PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen
 
 Standardized Tests Used
 
+    
+<details>
+<summary> Click to View Details </summary>
+<p style="text-align: justify;">
+
 - Reading
   - Word Reading: TOWRE-2, WRMT-III
   - Sentence Reading: WJ-IV
@@ -92,10 +97,7 @@ RAN
 - Executive Function: BRIEF-2
 
   
-    
-<details>
-<summary> Click to View Details </summary>
-<p style="text-align: justify;">
+
 This project aimed to enhance biliteracy among heritage language learners by exploring the relationship between reading and writing skills within and across Mandarin and English. The result showed that reading and writing could predict each other within languages, while the cross-language influence only existed in English writing and Mandarin reading. 
 
 
