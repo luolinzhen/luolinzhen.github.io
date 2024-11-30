@@ -69,11 +69,16 @@ Computational thinking and literacy skills are critical in children’s developm
 
 PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen.aspx) 
 
-Standardized Tests Used
+
+This project aimed to enhance biliteracy among heritage language learners by exploring the relationship between reading and writing skills within and across Mandarin and English. The result showed that reading and writing could predict each other within languages, while the cross-language influence only existed in English writing and Mandarin reading. 
+
+
+
+
 
     
 <details>
-<summary> Click to View Details </summary>
+<summary> Click to Expand Standardized Tests Used </summary>
 <p style="text-align: justify;">
 
 - Reading
@@ -97,8 +102,6 @@ RAN
 - Executive Function: BRIEF-2
 
   
-
-This project aimed to enhance biliteracy among heritage language learners by exploring the relationship between reading and writing skills within and across Mandarin and English. The result showed that reading and writing could predict each other within languages, while the cross-language influence only existed in English writing and Mandarin reading. 
 
 
 </p>
