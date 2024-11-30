@@ -92,17 +92,32 @@ word reading, sentence reading, reading comprehension, word spelling, sentence c
 </p>
 </details>
 
+# Tree Map Example with HTML
 
-# Tree Map Example with Mermaid
+<div class="tree">
+    <ul>
+        <li>
+            <span>Root</span>
+            <ul>
+                <li>
+                    <span>Child 1</span>
+                    <ul>
+                        <li><span>Grandchild 1</span></li>
+                        <li><span>Grandchild 2</span></li>
+                    </ul>
+                </li>
+                <li>
+                    <span>Child 2</span>
+                    <ul>
+                        <li><span>Grandchild 3</span></li>
+                        <li><span>Grandchild 4</span></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+</div>
 
-```mermaid
-graph TD
-    Root --> Child1
-    Root --> Child2
-    Child1 --> GrandChild1
-    Child1 --> GrandChild2
-    Child2 --> GrandChild3
-    Child2 --> GrandChild4
 
 
 
