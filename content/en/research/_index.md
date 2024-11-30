@@ -71,7 +71,12 @@ PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen
 
 This project aimed to enhance biliteracy among heritage language learners by exploring the relationship between reading and writing skills within and across Mandarin and English. The result showed that reading and writing could predict each other within languages, while the cross-language influence only existed in English writing and Mandarin reading. 
 
-
+- Reading
+  - word reading
+  - 
+  - Water
+    - Water
+    - Water
 <details>
 <summary> Click to Expand Standardized Assessments </summary>
 <p style="text-align: justify;">
