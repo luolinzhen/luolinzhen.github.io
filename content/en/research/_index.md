@@ -73,10 +73,20 @@ This project aimed to enhance biliteracy among heritage language learners by exp
 
 - Reading
   - word reading
-  - 
-  - Water
-    - Water
-    - Water
+    - TOWRE-2, WRMT-III
+  - sentence reading
+    -WJ-IV
+  - reading comprehension
+    - WRMT-III
+- Writing  
+  - word spelling
+    - WJ-IV
+  - sentence construction
+    - WIAT-4
+  - text composition
+    - WIAT-4
+  
+    
 <details>
 <summary> Click to Expand Standardized Assessments </summary>
 <p style="text-align: justify;">
@@ -91,36 +101,6 @@ word reading, sentence reading, reading comprehension, word spelling, sentence c
 
 </p>
 </details>
-
-# Tree Map Example with HTML
-
-<div class="tree">
-    <ul>
-        <li>
-            <span>Root</span>
-            <ul>
-                <li>
-                    <span>Child 1</span>
-                    <ul>
-                        <li><span>Grandchild 1</span></li>
-                        <li><span>Grandchild 2</span></li>
-                    </ul>
-                </li>
-                <li>
-                    <span>Child 2</span>
-                    <ul>
-                        <li><span>Grandchild 3</span></li>
-                        <li><span>Grandchild 4</span></li>
-                    </ul>
-                </li>
-            </ul>
-        </li>
-    </ul>
-</div>
-
-
-
-
 
 
 {{< endcolumn >}}
