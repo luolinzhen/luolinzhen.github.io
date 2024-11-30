@@ -69,18 +69,13 @@ Computational thinking and literacy skills are critical in children’s developm
 
 PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen.aspx) 
 
-
-This project aimed to enhance biliteracy among heritage language learners by exploring the relationship between reading and writing skills within and across Mandarin and English. The result showed that reading and writing could predict each other within languages, while the cross-language influence only existed in English writing and Mandarin reading. 
-
-
-
-
-
+This project utilized standardized assessments to measure the literacy skills of Mandarin Chinese heritage language learners aged 8 to 12, exploring the relationship between reading and writing skills within and across Mandarin and English. The purpose was to deepen understanding of cross-linguistic influences and promote biliteracy development among heritage language learners.
     
 <details>
 <summary> Click to Expand Standardized Tests Used </summary>
 <p style="text-align: justify;">
 
+Primary:
 - Reading
   - Word Reading: TOWRE-2, WRMT-III
   - Sentence Reading: WJ-IV
@@ -90,14 +85,15 @@ This project aimed to enhance biliteracy among heritage language learners by exp
   - Sentence Construction: WIAT-4
   - Text Composition: WIAT-4
   
+Supplemental:
+- Oral Language
+  - Listening Comprehension: OWLS-II
+  - Oral Expression: OWLS-II
 - Phonological Processing: CTOPP-2
 - Vocabulary: PPVT-5
-
-OWLS-II
-  
-CELF-5
-RAN
-
+- Language Skills: CELF-5
+- Reading Skills: GMRT-4
+- Reading and Cognitive Processing: RAN
 - Nonverbal Intelligence: KBIT-2
 - Executive Function: BRIEF-2
 
