@@ -72,19 +72,13 @@ PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen
 This project aimed to enhance biliteracy among heritage language learners by exploring the relationship between reading and writing skills within and across Mandarin and English. The result showed that reading and writing could predict each other within languages, while the cross-language influence only existed in English writing and Mandarin reading. 
 
 - Reading
-  - word reading
-    - TOWRE-2, WRMT-III
-  - sentence reading
-    -WJ-IV
-  - reading comprehension
-    - WRMT-III
+  - Word Reading: TOWRE-2, WRMT-III
+  - Sentence Reading: WJ-IV
+  - Reading Comprehension: WRMT-III
 - Writing  
-  - word spelling
-    - WJ-IV
-  - sentence construction
-    - WIAT-4
-  - text composition
-    - WIAT-4
+  - Word Spelling: WJ-IV
+  - Sentence Construction: WIAT-4
+  - Text Composition: WIAT-4
   
     
 <details>
