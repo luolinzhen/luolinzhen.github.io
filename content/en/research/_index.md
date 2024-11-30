@@ -96,21 +96,10 @@ Supplemental:
 - Reading and Cognitive Processing: RAN
 - Nonverbal Intelligence: KBIT-2
 - Executive Function: BRIEF-2
-
-  
-
-
 </p>
 </details>
 
-
 {{< endcolumn >}}
-
-
-
-
-
-
 
 
 ## Family-Related Projects
