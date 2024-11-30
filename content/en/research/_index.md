@@ -80,6 +80,18 @@ This project aimed to enhance biliteracy among heritage language learners by exp
   - Sentence Construction: WIAT-4
   - Text Composition: WIAT-4
   
+- Phonological Processing: CTOPP-2
+- Vocabulary: PPVT-5
+
+OWLS-II
+  
+CELF-5
+RAN
+
+- Nonverbal Intelligence: KBIT-2
+- Executive Function: BRIEF-2
+
+  
     
 <details>
 <summary> Click to Expand Standardized Assessments </summary>
