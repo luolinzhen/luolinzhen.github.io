@@ -144,7 +144,9 @@ In the United States, kinship families often form when parents face challenges s
 
 PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
 
-The GRANDcares Project implemented a self-care educa0on interven0on for grandparents, serving as a pilot study to guide the development of an interven0on that builds resilience in grandparent caregivers. 
+this implemented a self-care educa0on interven0on for grandparents, serving as a pilot study to guide the development of an interven0on that builds resilience in grandparent caregivers. 
+
+
 
 
 
