@@ -134,13 +134,9 @@ In the United States, kinship families often form when parents face challenges s
 {{< endcolumn >}}
 
 
-
-
-
 {{< columns >}}
 
 {{< figure-a src="/media/research/grandcare.png" caption="Source: ChatGPT">}}
-
 
 {{< column >}}
 
