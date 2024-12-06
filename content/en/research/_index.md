@@ -129,9 +129,7 @@ This project investigated how maternal language shapes young children's language
 
 PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
 
-
-In the United States, kinship families often form when parents face significant challenges such as substance abuse, domestic violence, incarceration, severe illness, or death. These families frequently encounter unique barriers that limit their access to essential services, including healthcare. This project aimed to evaluate the needs and benefits of school-based dental healthcare services for kinship families by distributing questionnaires to caregivers with experience using these programs. The study sought to understand how school-based dental services addresses the specific challenges kinship families face and to assess its potential to reduce health disparities and racial inequities. By centering the experiences and perspectives of caregivers, this research provides actionable insights to improve the effectiveness of these programs and promote equitable access to oral healthcare for vulnerable populations.
-
+In the United States, kinship families often form when parents face challenges such as substance abuse, domestic violence, incarceration, serious illness, or death. This project evaluated the needs and benefits of school-based dental services for kinship families by surveying caregivers with experience using these programs. The findings highlighted how these services address the unique challenges faced by kinship families, reduce health disparities and racial inequities, and improve children's dental health within these families. The project emphasized the importance of integrating school-based dental services into all school-based healthcare programs to ensure broader access and equitable care.
 
 {{< endcolumn >}}
 
