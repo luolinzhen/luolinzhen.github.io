@@ -110,8 +110,7 @@ Supplemental:
 
 {{< column >}}
 
-**Parent-Child Talk**
-
+**Mother-Child Talk Project**
 
 PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=huang.5088) 
 
@@ -130,7 +129,9 @@ This project investigated how maternal language shapes young children's language
 
 PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
 
-This project aims to
+
+In the United States, kinship families often form when parents face significant challenges such as substance abuse, domestic violence, incarceration, severe illness, or death. These families frequently encounter unique barriers that limit their access to essential services, including healthcare. This project aimed to evaluate the needs and benefits of school-based dental healthcare services for kinship families by distributing questionnaires to caregivers with experience using these programs. The study sought to understand how school-based dental services addresses the specific challenges kinship families face and to assess its potential to reduce health disparities and racial inequities. By centering the experiences and perspectives of caregivers, this research provides actionable insights to improve the effectiveness of these programs and promote equitable access to oral healthcare for vulnerable populations.
+
 
 {{< endcolumn >}}
 
@@ -145,9 +146,13 @@ This project aims to
 
 {{< column >}}
 
-GrandCare Project
+**GRANDCares Project**
 
 PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
+
+The GRANDcares Project implemented a self-care educa0on interven0on for grandparents, serving as a pilot study to guide the development of an interven0on that builds resilience in grandparent caregivers. 
+
+
 
 {{< endcolumn >}}
 
