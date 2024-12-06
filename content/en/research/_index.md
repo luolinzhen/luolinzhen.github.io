@@ -114,7 +114,7 @@ Supplemental:
 
 PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=huang.5088) 
 
-This project investigated how maternal language shapes young children's language development. In a controlled lab setting, children aged 3 to 5 and their mothers engaged in conversations about emotions such as sadness, happiness, anger, and fear. These conversations were analyzed using the Computerized Language Analysis (CLAN) tool to explore how maternal language input influences children's language production. By focusing on these early interactions, the study aimed to uncover the role of maternal input in developing young children's language skills and emotional understanding.
+This project investigated how maternal language shapes young children's language development. In a controlled lab setting, children aged 3 to 5 and their mothers engaged in conversations about emotions such as sadness, happiness, anger, and fear. These conversations were analyzed using the Computerized Language Analysis (CLAN) tool to explore how maternal language input influences children's language production. By focusing on these early interactions, the project aimed to uncover the role of maternal input in developing young children's language skills and emotional understanding.
 
 {{< endcolumn >}}
 
@@ -144,11 +144,7 @@ In the United States, kinship families often form when parents face challenges s
 
 PI: [Dr. Nancy Mendoza](https://csw.osu.edu/faculty/mendoza-nancy-ph-d/) 
 
-this implemented a self-care educa0on interven0on for grandparents, serving as a pilot study to guide the development of an interven0on that builds resilience in grandparent caregivers. 
-
-
-
-
+Grandparents raising their grandchildren, a form of kinship family structure, face unique social, emotional, and physical challenges. This project implemented a self-care education intervention specifically designed for grandparent caregivers. Focus group interviews were conducted and analyzed using thematic analysis to evaluate caregivers’ perceptions of the intervention. As a pilot study, this project aimed to guide the development of more comprehensive interventions that strengthen and promote resilience among grandparent caregivers.
 
 {{< endcolumn >}}
 
