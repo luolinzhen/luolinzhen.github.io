@@ -69,13 +69,13 @@ Computational thinking and literacy skills are critical in children’s developm
 
 PI: [Dr. Ye Shen](https://www.usf.edu/education/faculty/faculty-profiles/ye-shen.aspx) 
 
-This project utilized standardized assessments to measure the literacy skills of Mandarin Chinese heritage language learners aged 8 to 12, exploring the relationship between reading and writing skills within and across Mandarin and English. The purpose was to deepen understanding of cross-linguistic influences and promote biliteracy development among heritage language learners.
+This project utilized standardized assessments to measure the biliteracy skills of Mandarin Chinese heritage language learners aged 8 to 12, exploring the relationship between reading and writing skills within and across Mandarin and English. The purpose was to deepen understanding of cross-linguistic influences and promote biliteracy development among heritage language learners.
     
 <details>
 <summary> Click to Expand Standardized Tests Used </summary>
 <p style="text-align: justify;">
 
-Primary:
+Primary (Assessments in English and Chinese):
 - Reading
   - Word Reading: TOWRE-2, WRMT-III
   - Sentence Reading: WJ-IV
@@ -115,13 +115,9 @@ Supplemental:
 
 PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=huang.5088) 
 
-This project aims to
+This project investigated how maternal language shapes young children's language development. In a controlled lab setting, children aged 3 to 5 and their mothers engaged in conversations about emotions such as sadness, happiness, anger, and fear. These conversations were analyzed using the Computerized Language Analysis (CLAN) tool to explore how maternal language input influences children's language production. By focusing on these early interactions, the study aimed to uncover the role of maternal input in developing young children's language skills and emotional understanding.
 
 {{< endcolumn >}}
-
-
-
-
 
 
 {{< columns >}}
