@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="/media/Photo.JPG" title="Me at the Bachelor's Graduation in Jiannan Auditorium" width="450">}}
+{{<figure src="/media/Photo.JPG" title="Me at the Ohio Union with Brutus Buckeye" width="450">}}
 
 
 Welcome to my website! My name is Linzhen Luo. <audio controls="" style="width: 15%; height: 30px;"> <source src="/media/Name.mp4"> Your browser does not support the audio element. </audio> I am a recent M.A. graduate in [Foreign, Second, and Multilingual Language Education](https://ehe.osu.edu/graduate/foreign-second-and-multilingual-language-education) at [The Ohio State University.](https://www.osu.edu/) Prior to my Master's study, I received my B.A. in [Japanese Language and Literature](https://cflc.xmu.edu.cn/) from [Xiamen University.](https://www.xmu.edu.cn) Currently, I am applying for a Ph.D. program.
