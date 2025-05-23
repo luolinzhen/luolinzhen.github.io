@@ -4,7 +4,7 @@ title = "罗淋贞: Linzhen Luo"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
-# enableGitInfo = true
+enableGitInfo = true
 
 [permalinks]
 cn = "/cn/:year/:month/:day/:slug/"
@@ -54,7 +54,6 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
     favicon = "/media/logo.png"
-    siteLastUpdated = "2025-05-23"  # <- 每次你 push 后手动改成当天日期
     # Edit by yourself:
     GithubEdit = "https://github.com/luolinzhen/luolinzhen.github.io/edit/main/content/"
     copyright = "&copy;"
