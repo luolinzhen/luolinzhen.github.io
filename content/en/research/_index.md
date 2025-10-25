@@ -110,7 +110,7 @@ Supplemental:
 
 {{< column >}}
 
-**Mother-Child Talk Project**
+**Language and Emotion Project**
 
 PI: [Dr. Becky Huang](https://ehe.osu.edu/teaching-and-learning/directory?id=huang.5088) 
 
