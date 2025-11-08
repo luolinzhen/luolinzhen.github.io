@@ -7,7 +7,7 @@ title: Home
 
 Welcome to my website! My name is Linzhen Luo. <audio controls="" style="width: 15%; height: 30px;"> <source src="/media/Name.mp4"> Your browser does not support the audio element. </audio> Currently, I am doing my Ph.D. in [Early Childhood Education](https://tlac.tamu.edu/academics/early-childhood-education/) at [Texas A&M University.](https://www.tamu.edu/index.html) Fingers crossed I'll survive and make it to the finish line! 🤩
 
-Prior to joining TAMU, I obtained my M.A. in [Foreign, Second, and Multilingual Language Education](https://ehe.osu.edu/graduate/foreign-second-and-multilingual-language-education) at [The Ohio State University.](https://www.osu.edu/) and my B.A. in [Japanese Language and Literature](https://cflc.xmu.edu.cn/) from [Xiamen University.](https://www.xmu.edu.cn) <img src="/media/XMU.jpg" height="18"> 
+Prior to joining TAMU, I obtained my M.A. in [Foreign, Second, and Multilingual Language Education](https://ehe.osu.edu/graduate/foreign-second-and-multilingual-language-education) at [The Ohio State University.](https://www.osu.edu/) and my B.A. in [Japanese Language and Literature](https://cflc.xmu.edu.cn/) from Xiamen University. [<img src="/media/XMU.jpg" height="30">](https://www.xmu.edu.cn)
 [Xiamen University](https://www.xmu.edu.cn).
 
 
