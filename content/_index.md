@@ -5,7 +5,7 @@ title: Home
 {{<figure src="/media/Photo.JPG" title="Me at the Ohio Union with Brutus Buckeye" width="450">}}
 
 
-Welcome to my website! My name is Linzhen Luo. <audio controls="" style="width: 15%; height: 30px;"> <source src="/media/Name.mp4"> Your browser does not support the audio element. </audio> Currently, I am doing my Ph.D. in [Early Childhood Education](https://tlac.tamu.edu/academics/early-childhood-education/) at [Texas A&M University](https://www.tamu.edu/index.html) <img src="/media/TAMU.jpg" height="25" style="vertical-align: -0.2em;">. Fingers crossed I'll survive and make it to the finish line! 🤩
+Welcome to my website! My name is Linzhen Luo. <audio controls="" style="width: 15%; height: 30px;"> <source src="/media/Name.mp4"> Your browser does not support the audio element. </audio> Currently, I am doing my Ph.D. in [Early Childhood Education](https://tlac.tamu.edu/academics/early-childhood-education/) at [Texas A&M University](https://www.tamu.edu/index.html) <img src="/media/TAMU.jpg" height="25" style="vertical-align: -0.2em;">. Fingers crossed I'll survive and make it to the finish line!<img src="/media/emoji.jpg" height="25" style="vertical-align: -0.2em;">
 
 Prior to joining TAMU, I obtained my M.A. in [Foreign, Second, and Multilingual Language Education](https://ehe.osu.edu/graduate/foreign-second-and-multilingual-language-education) at [The Ohio State University](https://www.osu.edu/) <img src="/media/tOSU.jpg" height="25" style="vertical-align: -0.2em;"> and my B.A. in [Japanese Language and Literature](https://cflc.xmu.edu.cn/) from [Xiamen University](https://www.xmu.edu.cn) <img src="/media/XMU.jpg" height="25" style="vertical-align: -0.2em;">.
 
